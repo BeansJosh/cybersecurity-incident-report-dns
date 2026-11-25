@@ -15,8 +15,8 @@ A packet capture (tcpdump) was taken while reproducing the issue. The capture sh
 - As a result, name resolution failed and the website could not be reached.
 
 ## Contents
-- `filled-incident-report.docx` - Completed incident report following the provided template
-- `template-blank.docx` - Original blank template (for reference)
+- `filled-incident-report.pdf` - Completed incident report following the provided template
+- `template-blank.pdf` - Original blank template (for reference)
 
 ## Tools Used
 - tcpdump (network protocol analyzer)
