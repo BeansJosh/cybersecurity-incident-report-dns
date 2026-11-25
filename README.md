@@ -1,7 +1,7 @@
 # Network Traffic Analysis: DNS & ICMP Incident Report
 
 ## Overview
-This repository contains a cybersecurity incident report analyzing DNS and ICMP traffic from a simulated network issue. The exercise involved investigating why users were unable to access a website and received a “destination port unreachable” error.
+This repository contains a cybersecurity incident report analyzing DNS and ICMP traffic from a simulated network issue. The exercise involved investigating why users were unable to access a website and received a “destination port unreachable” error. This is part of my Google CyberSecurity Professional Certification course.
 
 ## Scenario Summary
 Several customers reported they could not reach the website **www.yummyrecipesforme.com**. When attempting to load the page, the browser returned a “destination port unreachable” error. 
